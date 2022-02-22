@@ -9,5 +9,6 @@ Obliczenia Inżynierskie w Matlabie - Matlab scripts made for university assignm
 
 "Sito Eratostenesa" finding primes using Sieve of Eratosthenes and shows computational complexity for huge numbers
  
- "Wektor stanów" introduction into State-space representation
+"Wektor stanów" introduction into State-space representation.
  
+"Kula Wielowymiarowa" estimates volume of unit sphere depending on number of dimensions.
